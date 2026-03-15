@@ -1,44 +1,91 @@
-<!-- Привет! Аз съм Йордан Йорданов 👋 -->
-<h1 align="center">👋 Hey there, I'm Yordan Yordanov</h1>
-<h3 align="center">☕ Java Developer | 🎨 Creative Mind | 🌐 Web Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Yordan Yordanov</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs</h3>
 
 <p align="center">
-  <a href="https://portfolio-yordan-yordanov.netlify.app/" target="_blank">
-    🌍 Visit my portfolio
-  </a>
+  <a href="https://portfolio-yordan-yordanov.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/YordanYordanov10" target="_blank">🐙 GitHub</a>
 </p>
 
 ---
 
-### 💡 About Me
+## 👨‍💻 About Me
 
-👨‍💻 Обичам да създавам неща – от Java приложения до красиви уеб страници.  
-🎓 Учил съм **Java, OOP, Spring Boot**, както и **HTML, CSS, Bootstrap** и малко **JavaScript**.  
-🎣 Когато не пиша код – вероятно съм някъде край реката с въдица 😄  
+I am a **Java Backend Developer** with a strong background in **banking operations and business processes**.
 
-> “Code is like fishing — patience, precision, and the right bait make all the difference.” 🐟  
+After more than 10 years of professional experience in banking and procurement, I transitioned into software development and completed an intensive **Java and Spring Boot program at SoftUni**.
 
----
+I enjoy building **backend systems, REST APIs and data-driven applications** using modern Java technologies.
 
-### ⚙️ Tech Stack
+Currently I am developing a **Warehouse Management System (WMS) REST API** to deepen my knowledge in:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,git,github&theme=dark" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| 💻 Проект | 🧩 Описание | 🔧 Технологии |
-|-----------|-------------|---------------|
-| [**Fishing Store Backend**](https://github.com/YordanYordanov10/fishing-store-backend) | Backend за онлайн магазин за риболовни принадлежности | Java, Spring Boot |
-| [**Barber Studio**](https://github.com/YordanYordanov10/BarberStudio) | Система за управление на студио/салон | Java |
-| [**Email Notification**](https://github.com/YordanYordanov10/Email-notification) | Сървиз за изпращане на известия по e-mail | Java, SMTP |
+- backend architecture
+- database design
+- business logic implementation
+- scalable system design
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ Tech Stack
+
+### Backend
+Java • Spring Boot • Spring MVC
+
+### Database
+MySQL • JPA • Hibernate
+
+### API Development
+REST APIs • JSON • HTTP
+
+### Testing
+JUnit 5 • Mockito • Spring Test
+
+### Tools
+Git • Maven • IntelliJ IDEA • Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 Warehouse Management System (WMS) API – In Progress
+Backend system for managing warehouse inventory and stock operations.
+
+**Tech:** Java, Spring Boot, MySQL
+
+Features:
+- REST API for product and inventory management
+- layered architecture (controller / service / repository)
+- business validation and exception handling
+- relational database design with JPA/Hibernate
+
+---
+
+### 💈 Barber Studio Management System
+Web application for managing appointments and customers in a barber studio.
+
+**Tech:** Java, Spring MVC, Spring Security, Thymeleaf, MySQL
+
+Features:
+- authentication and role-based access
+- appointment booking system
+- email notifications
+- MVC architecture
+- automated tests with JUnit and Spring Test
+
+---
+
+### 🎣 Fishing Store Backend – In Progress
+Backend API for managing fishing products and orders.
+
+**Tech:** Java, Spring Boot
+
+Features:
+- REST controllers
+- product and order management
+- relational database integration
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YordanYordanov10&show_icons=true&theme=radical" />
@@ -47,21 +94,19 @@
 
 ---
 
-### 🧠 Currently Learning
+## 📚 Currently Learning
 
-🌱 Уча се да подобрявам уменията си по **Spring Boot**, **REST APIs**, и **frontend интеграция**.  
-📘 Експериментирам с **малки проекти**, за да свързвам бекенд и уеб частта по-елегантно.
-
----
-
-### 📫 Reach Me At
-
-<p align="center">
-  <a href="https://portfolio-yordan-yordanov.netlify.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:your.email@example.com">📧 Email</a> •
-  <a href="https://github.com/YordanYordanov10" target="_blank">🐙 GitHub</a>
-</p>
+- Spring Boot advanced concepts
+- REST API design best practices
+- system architecture and clean code
+- Docker and modern backend tools
 
 ---
 
-<p align="center">✨ “Keep it simple, make it beautiful, and let the code flow.” ✨</p>
+## 📫 Contact
+
+📍 Bulgaria  
+📧 dakadelpiero@gmail.com  
+
+LinkedIn:  
+www.linkedin.com/in/yordan-yordanov-7895882a7
