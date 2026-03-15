@@ -85,7 +85,7 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YordanYordanov10&show_icons=true&theme=radical" />
