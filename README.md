@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YordanYordanov10/profile-assets/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/YordanYordanov10/profile-assets/main/newBanner.png" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Yordan Yordanov</h1>
