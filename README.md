@@ -89,8 +89,7 @@ Features:
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YordanYordanov10&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordanYordanov10&layout=compact&theme=radical" />
-</p> 
+</p>
 
 ---
 
