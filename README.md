@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YordanYordanov10/profile-assets/main/banner.png" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Yordan Yordanov</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs</h3>
 
