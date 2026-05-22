@@ -113,4 +113,4 @@ Java • Spring MVC
 
 - 🌐 Portfolio: https://portfolio-yordan-yordanov.netlify.app/
 - 💻 GitHub: https://github.com/YordanYordanov10
-- 📧 Email: your.email@example.com
+- 📧 Email: dakadelpiero@gmail.com
