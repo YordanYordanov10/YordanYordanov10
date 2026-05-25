@@ -113,8 +113,8 @@ Backend for an e-commerce fishing store.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YordanYordanov10&show_icons=true&theme=radical"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordanYordanov10&layout=compact&theme=radical"/>
+</p
 
 ---
 
