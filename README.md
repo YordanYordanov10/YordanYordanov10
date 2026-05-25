@@ -110,14 +110,6 @@ Backend for an e-commerce fishing store.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordanYordanov10&layout=compact&theme=radical"/>
-</p
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: [linkedin.com/in/yordan-yordanov-dev](https://www.linkedin.com/in/yordan-yordanov-dev/)
