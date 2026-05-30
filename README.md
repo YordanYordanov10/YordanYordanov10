@@ -37,7 +37,7 @@
 - MySQL, PostgreSQL
 
 **Testing**
-- JUnit 5, Mockito, Spring Test, Postman
+- JUnit 5, Mockito, Spring Test, Postman 
 
 **Tools**
 - Git, Maven, IntelliJ IDEA, WordPress
